@@ -2,3 +2,5 @@ Hal-hal yang telah dipelajari :
 - Mempelajari tentang GIT dan GITHUB
 - Membuat akun di GITHUB
 - Belajar membuat repo di GITHUB
+- Belajar membuat file.txt di GITHUB
+- Belajar mengedit file.txt di GITHUB
